@@ -1,4 +1,4 @@
-# 🚀 Python to Machine Learning: A Journey to ML Engineering
+#  Python to Machine Learning: A Journey to ML Engineering
 
 Welcome to my central repository tracking my continuous learning journey from **Python programming fundamentals** to **Machine Learning and Artificial Intelligence**. 
 
@@ -6,7 +6,7 @@ This repository documents my structured learning roadmap, hands-on coding exerci
 
 ---
 
-## 🎯 Repository Goal
+##  Repository Goal
 
 - **Build a Solid Foundation:** Master Python syntax, object-oriented design, and data structures.
 - **Bridge Math & Code:** Apply essential concepts in Linear Algebra, Statistics, and Calculus using Python.
@@ -15,26 +15,26 @@ This repository documents my structured learning roadmap, hands-on coding exerci
 
 ---
 
-## 🗺️ Learning Roadmap & Curriculum
+##  Learning Roadmap & Curriculum
 
-### 📌 Phase 1: Python Foundations
+###  Phase 1: Python Foundations
 - Core Syntax, Control Flow, & Data Structures (Lists, Dicts, Sets)
 - Functions, Lambdas, & Modules
 - Object-Oriented Programming (OOP) & Clean Code (PEP 8)
 - Exception Handling, File I/O, & Environment Management
 
-### 📌 Phase 2: Data Science Toolkit & Mathematics
+###  Phase 2: Data Science Toolkit & Mathematics
 - **NumPy:** Vectorized computations, matrix operations, and array manipulation.
 - **Pandas:** Data cleaning, merging, aggregation, and time-series handling.
 - **Matplotlib & Seaborn:** Data visualization and EDA techniques.
 - **Applied Math:** Statistics, Probability Distributions, Vector/Matrix math for ML.
 
-### 📌 Phase 3: Classic Machine Learning (Scikit-Learn)
+###  Phase 3: Classic Machine Learning (Scikit-Learn)
 - **Supervised Learning:** Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost.
 - **Unsupervised Learning:** K-Means Clustering, PCA (Dimensionality Reduction).
 - **Model Evaluation:** Cross-Validation, Hyperparameter Tuning (GridSearch/RandomSearch), Metrics (Precision, Recall, ROC-AUC).
 
-### 📌 Phase 4: Modern ML & Beyond (In Progress)
+###  Phase 4: Modern ML & Beyond (In Progress)
 - Feature Engineering & Pipelines
 - Model Deployment (FastAPI, Streamlit)
 - Introduction to Deep Learning (PyTorch / TensorFlow)
